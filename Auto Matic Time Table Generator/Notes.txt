@@ -1,0 +1,4 @@
+This Project especially Developed for Ayya Nadar Janaki Ammal College 
+Project Duration : May 2014 to Aug 2014
+Team Size  1
+The main aim of the project is to allocate classes to the faculty. In such way that their timing do not clash.
